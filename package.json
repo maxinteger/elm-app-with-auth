@@ -1,0 +1,21 @@
+{
+  "name": "elm-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "elm": "^0.17.1",
+    "gulp": "^3.9.0",
+    "gulp-connect": "^4.0.0",
+    "gulp-elm": "^0.4.4",
+    "gulp-plumber": "^1.1.0",
+    "gulp-util": "^3.0.7",
+    "in-memory-todo": "github:auth0-blog/nodejs-jwt-authentication-sample"
+  }
+}
